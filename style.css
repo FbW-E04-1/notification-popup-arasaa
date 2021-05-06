@@ -1,0 +1,23 @@
+.notification{
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    
+}
+div{
+    background-color: rgb(225, 93, 52);
+    height: 40px;
+    text-overflow: clip;
+    
+}
+.close{
+  
+    position: absolute;
+    left: 122px;
+    bottom: 35px;
+    border-radius: 25px 22px 25px 22px;
+    background-color: white;
+}
+img{
+    width: 15px;
+}
